@@ -41,3 +41,6 @@ Main:
 mvn compile exec:java -Dexec.mainClass="<package_name>.Main" 
 mvn compile exec:java -Dexec.mainClass="ClientHistoryTest.Main" 
 ```
+
+## Credit:
+Made as part of a group with Ross Paton, Alexander Boyd, Jacob Mwangu, Finlay Colston, and Shayan Khanani
